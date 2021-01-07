@@ -7,7 +7,7 @@ Knowledge points:
 """
 
 """
-Solution 1 - simply traverse
+Solution 1 - (best practice)simply traverse
 Time complexity: O(N^2)
 Space complexity: O(1)
 """
@@ -22,7 +22,7 @@ def twoSum_1(nums, target):
       
 
 """
-Solution 2 - with hashtable
+Solution 2 - (best practice)with hashtable
 Time complexity: O(N)
 Space complexity: O(N)
 """
