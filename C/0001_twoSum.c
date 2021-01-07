@@ -1,0 +1,22 @@
+/*
+Knowledge points:
+1.Time complexity
+2.Space complexity
+3.hashtable
+4.python build in method: enumerate
+*/
+
+/*
+Solution 1 - (best practice)simply traverse
+Time complexity: O(N^2)
+Space complexity: O(1)
+*/
+int * twoSum(int* nums, int numSize, int* target, int returnSize) {
+}
+
+
+/*
+Solution 2 - (best practice)with hashtable
+Time complexity: O(N)
+Space complexity: O(N)
+*/
